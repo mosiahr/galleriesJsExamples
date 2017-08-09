@@ -22,11 +22,12 @@
 
 .arrowBox img{
     margin-top: 600%;
-    width: 100%;
+    width: 96%;
+    padding: 2%;
 }
 .arrowBox img:hover{
     cursor: pointer;
-    width: 95%;
+    width: 92%;
 }
 .arrowBox img:active{
     width: 85%;
